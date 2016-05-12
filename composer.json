@@ -5,5 +5,13 @@
   "version": "dev-master",
   "license": [
     "OSL-3.0"
-  ]
+  ],
+  "extra": {
+    "map": [
+      [
+        "*",
+        "Zengoma/MessageManagerExample"
+      ]
+    ]
+  }
 }
