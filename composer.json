@@ -1,0 +1,9 @@
+{
+  "name": "zengoma/messagemanagerexample",
+  "description": "Message Manager Example",
+  "type": "magento2-module",
+  "version": "dev-master",
+  "license": [
+    "OSL-3.0"
+  ]
+}
