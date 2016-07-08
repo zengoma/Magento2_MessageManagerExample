@@ -15,10 +15,12 @@ Activate the module from the bin directory:
 ```
 Ensure all your folder permissions are correct after the static content has regenerated.
 
-You can explore the newly installed module under /vendor/zengoma/messagemanagerexample
+You can explore the newly installed module under /vendor/zengoma/messagemanagerexample.
+
+The code clearly demonstrates how you could display your own custom messages in pure php. 
 
 ###Usage:
-Visit **/my_message_manager/test/redirect**. If installation was successful you should be redirected
+Visit **<your_store_url>/my_message_manager/test/redirect**. If installation was successful you should be redirected
 to the shopping cart with a success message.
 
 ![Example_1](/images/example_1.png)
